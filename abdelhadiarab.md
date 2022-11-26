@@ -1,4 +1,4 @@
-# Abdelhadi Arab
+# Abdelhadi Ibrahim Arab
 ---
 #### Web Developer 
 ---
@@ -18,5 +18,6 @@ Project: Online spices & Herbs shopping
 Project: Signage Management
 * **2016 till 2018**<br>
 Electricity Distribution
-
+ ##### Email
+ abdelhadi.a.2001@gmail.com
 
